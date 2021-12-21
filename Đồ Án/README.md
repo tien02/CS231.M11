@@ -1,6 +1,6 @@
 # Human Detection using HOG
 
-In my final project of CS231 class. I'm working on "Human Detection" using HOG feature in order to find out basic model like "Dalal & Triggs Model" and "Deformable Part Model".
+In my final project of CS231 class. I'm working on "Human Detection" using HOG feature in order to find out basic model like "Dalal & Triggs Model" and "Deformable Part Models".
 Through this final project, I've known some basic idea about:
 * HOG feature
 * Sliding Window
