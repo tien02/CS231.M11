@@ -7,4 +7,5 @@ In CS231, I've learned:
 * Some easy image segmentation technique
 * Harris, HOG, SIFT feature and their use
 * Image Panorama
+<br>
 After this class, I've got some basic understanding about Computer Vision area and it's very helpful for me in my learning process.
