@@ -9,4 +9,5 @@ Through this final project, I've known some basic idea about:
 * Filter
 * Cross-Correlation
 * Idea of part-based-model 
+<br>
 Although the powerfull of modern Deep Learning Model may surpass these old model, but after this project I've learned lots of knowledge about Computer Vision area.
